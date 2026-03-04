@@ -1,3 +1,4 @@
-# C# Fundamentals
+# Sultan
 
-Learning C# and uploading small practice programs as I learn.
+Learning C# fundamentals.  
+Uploading small practice programs as I learn.
